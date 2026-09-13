@@ -311,4 +311,15 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-13@holly-ridge-lunch
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:HRES: Bkd Mozz Ch Sticks / Rotini w/ Marin
+DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
+ nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
+ i\, Buttered Corn\nFresh Fruits: Fresh Cantaloupe
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
