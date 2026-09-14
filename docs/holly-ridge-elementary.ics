@@ -322,4 +322,15 @@ DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
  i\, Buttered Corn\nFresh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-14@holly-ridge-lunch
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
+DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
+ etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
+ s: Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

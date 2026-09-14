@@ -336,4 +336,15 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  nFresh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-14@holly-ridge-lunch
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:HRMS: Ch/Pep Piz / Carnival Corn Dog Nuggets
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Carniva
+ l Corn Dog Nuggets\nVegetables: Baked Sweet Potato Fries\nFruits: Applesau
+ ce Cup\nFresh Vegetables: Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
