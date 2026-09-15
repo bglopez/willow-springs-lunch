@@ -82,8 +82,9 @@ DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on
  Brioche Bun\, Beef Nachos\, Vanilla Yogurt & Strawberry Parfait\, Crispy C
  hicken & Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\, Oven 
  Roasted Turkey & Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetable
- s: Ranch Style Pinto Beans\, Chili Spiced Corn\nFruits: 100% Fruit Blend J
- uice\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+ s: Ranch Style Pinto Beans\, Flame Roasted Corn & Jalapeno Blend\nFruits: 
+ 100% Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced To
+ matoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -345,6 +346,18 @@ SUMMARY:HRMS: Ch/Pep Piz / Carnival Corn Dog Nuggets
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Carniva
  l Corn Dog Nuggets\nVegetables: Baked Sweet Potato Fries\nFruits: Applesau
  ce Cup\nFresh Vegetables: Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hrms-2026-10-15@holly-ridge-lunch
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:HRMS: Ckn Filet/Spcy
+DESCRIPTION:Entrees: Chicken Filet on Brioche Bun\, Spicy Chicken Filet on 
+ Brioche Bun\, Hot Honey Chicken Filet with Pimento Cheese\, Butterball Dou
+ ble Dogs\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Colesla
+ w\, Fresh Cucumber Sticks\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

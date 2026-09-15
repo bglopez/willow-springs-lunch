@@ -62,8 +62,9 @@ DTEND;VALUE=DATE:20260915
 SUMMARY:HRES: Srrcha Ckn Bites / Chana Masala
 DESCRIPTION:Entrees: Honey Sriracha Chicken Bites\, Chana Masala with Rice\
  , Crispy Chicken & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\n
- Grains: Fresh Baked Dinner Roll\nVegetables: Creamy Garlic Spinach\, Ginge
- r Glazed Carrots\nFruits: Applesauce Cup
+ Grains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables: Creamy G
+ arlic Spinach\, Ginger Glazed Carrots\nFresh Fruits: Fresh Sweet Apple Sli
+ ces
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -73,10 +74,11 @@ DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:HRES: Beef Nachos / Ch Quesa / Crspy Ckn Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Crispy Chicken
-  & Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Gr
- ain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Chili Spiced Cor
- n\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\, Fre
- sh Diced Tomatoes
+  & Cheese Chef Salad\, Honey Sriracha Chicken Bites\, Vanilla Yogurt & Str
+ awberry Parfait\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Grain T
+ ortilla Chips\, Fresh Baked Dinner Roll\nVegetables: Ranch Style Pinto Bea
+ ns\, Chili Spiced Corn\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded 
+ Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -331,6 +333,17 @@ SUMMARY:HRES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
 DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
  etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
  s: Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hres-2026-10-15@holly-ridge-lunch
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:HRES: Hot Dog / Grld Ckn Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nFrui
+ ts: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucu
+ mber Sticks\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
