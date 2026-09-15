@@ -90,7 +90,7 @@ def build_calendar(tag: str, calname: str, days: list[Day]) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//smith6hive//holly-ridge-lunch//EN",
+        "PRODID:-//bglopez//willow-springs-lunch//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{escape(calname)}",
@@ -103,7 +103,7 @@ def build_calendar(tag: str, calname: str, days: list[Day]) -> str:
         stamp = day.day.strftime("%Y%m%dT000000Z")
         lines += [
             "BEGIN:VEVENT",
-            f"UID:{tag.lower()}-{day.day.isoformat()}@holly-ridge-lunch",
+            f"UID:{tag.lower()}-{day.day.isoformat()}@willow-springs-lunch",
             f"DTSTAMP:{stamp}",
             f"DTSTART;VALUE=DATE:{day.day.strftime('%Y%m%d')}",
             # DTEND is exclusive for all-day events: the day after.

@@ -1,15 +1,15 @@
-# Holly Ridge lunch feeds
+# Willow Springs Elementary lunch feed
 
-Publishes the daily lunch menu for **Holly Ridge Elementary** and **Holly Ridge
-Middle** (Wake County Public Schools) as two subscribable iCalendar feeds, so the
+Publishes the daily lunch menu for **Willow Springs Elementary** (Wake County
+Public Schools) as a subscribable iCalendar feed, so the
 menus show up on the family Skylight calendar.
 
 ## Why it works this way
 
 The Skylight frame cannot be written to directly, and the family Google Calendar
 is read-only to us. Skylight will, however, subscribe to any public calendar URL.
-So instead of pushing events into someone's calendar, this repo publishes two
-static `.ics` files to GitHub Pages and lets Skylight pull them.
+So instead of pushing events into someone's calendar, this repo publishes a
+static `.ics` file to GitHub Pages and lets Skylight pull them.
 
 Menus come from the public MealViewer API that Wake County uses — no key, no auth:
 
@@ -23,7 +23,7 @@ Wake County only loads menus about a month ahead. Everything past that comes bac
 as an empty day, not an error. A hand-built calendar would therefore go stale and
 silently stop showing lunches.
 
-This repo solves that by rebuilding both feeds every morning. New weeks appear on
+This repo solves that by rebuilding the feed every morning. New weeks appear on
 the frame within a day of the district publishing them, with no manual step. Days
 with no published menu emit no event at all, so the calendar is simply blank
 rather than showing a misleading placeholder.
@@ -32,24 +32,20 @@ rather than showing a misleading placeholder.
 
 | School | Feed |
 |---|---|
-| Holly Ridge Elementary | `docs/holly-ridge-elementary.ics` |
-| Holly Ridge Middle | `docs/holly-ridge-middle.ics` |
-
-Each is a separate feed on purpose: Skylight assigns a colour per synced
-calendar, so elementary and middle can be told apart and toggled independently.
+| Willow Springs Elementary | `docs/willow-springs-elementary.ics` |
 
 ## Adding a feed to Skylight
 
 Skylight app → menu (upper right) → **Synced Calendars** → **Sync new calendar**
-→ **Calendar URL** → paste the feed URL → **Done**. Repeat for the second school,
-then set each calendar's colour in the app.
+→ **Calendar URL** → paste the feed URL → **Done**.
+Then set the calendar's colour in the app.
 
 ## Event shape
 
 One all-day event per school day. All-day keeps lunch out of the timed columns.
 
 - **Title** — school tag plus up to four abbreviated entrées, e.g.
-  `HRMS: Ckn Filet/Spcy / Brocc Alfrd`, capped at 54 characters. Abbreviation
+  `WSES: Ckn Filet/Spcy / Brocc Alfrd`, capped at 54 characters. Abbreviation
   rules live in `abbrev.py` as plain data: variant pairs served side by side
   collapse into one label (`Ch/Pep Piz`), menu filler is dropped, and long words
   contract (`Chicken` → `Ckn`). Averages 36 characters against 51 unabbreviated,
@@ -79,11 +75,11 @@ is what keeps the daily workflow from producing empty commits.
 | `abbrev.py` | Title abbreviation tables: pairs, phrases, words |
 | `icswriter.py` | RFC 5545 rendering: folding, escaping, stable UIDs |
 | `build.py` | Entry point; writes `docs/` |
-| `schools.json` | The two schools; add or swap schools here |
+| `schools.json` | Willow Springs Elementary feed configuration |
 | `tests/test_feed.py` | Feed-correctness tests |
 
 ## Changing schools
 
 Edit `schools.json`. Find a school's `lookup` by trying its name without spaces
-(`HollyRidgeMiddle`); the API echoes back the real school name, so a wrong guess
+(`WillowSpringsElementary`); the API echoes back the real school name, so a wrong guess
 is obvious immediately.

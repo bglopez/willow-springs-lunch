@@ -2,15 +2,9 @@
   "generated": "2026-09-15",
   "feeds": [
     {
-      "name": "Holly Ridge Elementary Lunch",
-      "slug": "holly-ridge-elementary",
+      "name": "Willow Springs Elementary Lunch",
+      "slug": "willow-springs-elementary",
       "days": 28,
-      "through": "2026-10-15"
-    },
-    {
-      "name": "Holly Ridge Middle Lunch",
-      "slug": "holly-ridge-middle",
-      "days": 27,
       "through": "2026-10-15"
     }
   ]

@@ -19,30 +19,30 @@ def sample():
 
 
 def test_all_day_event_uses_exclusive_dtend():
-    ics = build_calendar("HRMS", "Middle", [sample()])
+    ics = build_calendar("WSES", "Willow Springs Elementary Lunch", [sample()])
     assert "DTSTART;VALUE=DATE:20260824" in ics
     assert "DTEND;VALUE=DATE:20260825" in ics
 
 
 def test_uid_is_stable_across_menu_changes():
-    a = build_calendar("HRMS", "Middle", [sample()])
+    a = build_calendar("WSES", "Willow Springs Elementary Lunch", [sample()])
     changed = sample()
     changed.entrees = ["Something Else Entirely"]
-    b = build_calendar("HRMS", "Middle", [changed])
-    uid = "UID:hrms-2026-08-24@holly-ridge-lunch"
+    b = build_calendar("WSES", "Willow Springs Elementary Lunch", [changed])
+    uid = "UID:wses-2026-08-24@willow-springs-lunch"
     assert uid in a and uid in b
 
 
 def test_output_is_deterministic():
-    assert build_calendar("HRMS", "Middle", [sample()]) == build_calendar(
-        "HRMS", "Middle", [sample()]
+    assert build_calendar("WSES", "Willow Springs Elementary Lunch", [sample()]) == build_calendar(
+        "WSES", "Willow Springs Elementary Lunch", [sample()]
     )
 
 
 def test_no_line_exceeds_75_octets():
     long_day = sample()
     long_day.sides = {"Vegetables": ["Extremely Long Vegetable Name " * 6]}
-    ics = build_calendar("HRMS", "Middle", [long_day])
+    ics = build_calendar("WSES", "Willow Springs Elementary Lunch", [long_day])
     for line in ics.split("\r\n"):
         assert len(line.encode("utf-8")) <= 75, line
 
@@ -57,15 +57,15 @@ def test_escaping_handles_backslash_first():
 
 
 def test_title_carries_tag_and_abbreviated_entrees_within_budget():
-    title = build_title("HRMS", sample())
-    assert title.startswith("HRMS: ")
+    title = build_title("WSES", sample())
+    assert title.startswith("WSES: ")
     assert "Ch Piz" in title
     assert len(title) <= 54
 
 
 def test_title_falls_back_to_grab_and_go_when_no_hot_entree():
     day = Day(day=date(2026, 8, 24), grab_and_go=["Turkey & Cheese Box"])
-    assert build_title("HRES", day) == "HRES: Trky & Ch Box"
+    assert build_title("WSES", day) == "WSES: Trky & Ch Box"
 
 
 def test_abbreviate_drops_filler_and_contracts_words():
@@ -97,7 +97,7 @@ def test_condense_never_emits_empty_labels():
 
 def test_single_long_entree_is_kept_not_replaced_by_lunch():
     day = Day(day=date(2026, 8, 24), entrees=["Some Extremely Long Dish Name " * 3])
-    assert build_title("HRMS", day) != "HRMS: Lunch"
+    assert build_title("WSES", day) != "WSES: Lunch"
 
 
 def test_empty_day_is_detected():
@@ -119,7 +119,7 @@ def test_crlf_survives_a_write_read_round_trip(tmp_path):
     read_text() translates newlines, so CRLF content read back that way never
     equals what was written. build.py must use newline="" on both sides.
     """
-    ics = build_calendar("HRMS", "Middle", [sample()])
+    ics = build_calendar("WSES", "Willow Springs Elementary Lunch", [sample()])
     target = tmp_path / "feed.ics"
     with open(target, "w", encoding="utf-8", newline="") as fh:
         fh.write(ics)

@@ -86,7 +86,7 @@ def render_index(summary: list[dict], today: date) -> str:
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Holly Ridge Lunch Feeds</title>
+<title>Willow Springs Elementary Lunch</title>
 <style>
  body {{ font-family: system-ui, sans-serif; margin: 3rem auto; max-width: 44rem;
         padding: 0 1rem; line-height: 1.5; }}
@@ -96,9 +96,9 @@ def render_index(summary: list[dict], today: date) -> str:
 </style>
 </head>
 <body>
-<h1>Holly Ridge Lunch Feeds</h1>
-<p>Subscribable iCalendar feeds of the daily lunch menu, rebuilt from the
-public MealViewer API. Add either URL to Skylight under
+<h1>Willow Springs Elementary Lunch</h1>
+<p>A subscribable iCalendar feed of the daily lunch menu, rebuilt from the
+public MealViewer API. Add the feed URL to Skylight under
 <em>Synced Calendars &rarr; Sync new calendar &rarr; Calendar URL</em>.</p>
 <table>
   <thead><tr><th>Feed</th><th>Days</th><th>Published through</th><th>File</th></tr></thead>
