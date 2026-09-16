@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-08@willow-springs-lunch
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:WSES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrab an
- d go: Vanilla Yogurt Box\nGrains: Whole Grain Tortilla Chips\nVegetables: 
- Salsa\, Mixed Vegetable Medley\nFresh Fruits: Fresh Strawberries
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-09@willow-springs-lunch
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
@@ -81,11 +70,11 @@ UID:wses-2026-09-16@willow-springs-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
+SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Salsa
-  & String Cheese Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Gr
- ape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\nGrab and go: Strawberry Yogurt Box\nVegetables
+ : Baked Emoticon Potatoes\nFruits: 100% Grape Juice\nFresh Vegetables: Fre
+ sh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -333,6 +322,17 @@ SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nFrui
  ts: 100% Fruit Blend Juice\nFresh Vegetables: Creamy Coleslaw\, Fresh Cucu
  mber Sticks\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-16@willow-springs-lunch
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ Diced Peach Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby
+  Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
