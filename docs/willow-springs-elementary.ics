@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-09@willow-springs-lunch
-DTSTAMP:20260909T000000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:WSES: Ckn Bacon Ranch Wrap / Dbl Ch Mac & Ch
-DESCRIPTION:Entrees: Chicken Bacon Ranch Wrap\, Double Cheese Mac & Cheese\
- nGrab and go: String Cheese & Crackers Box\nGrains: Fresh Baked Dinner Rol
- l\nVegetables: Steamed Broccoli\nFruits: Mixed Fruit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-10@willow-springs-lunch
 DTSTAMP:20260910T000000Z
 DTSTART;VALUE=DATE:20260910
