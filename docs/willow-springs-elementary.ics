@@ -317,4 +317,15 @@ DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\nGrai
  100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-20@willow-springs-lunch
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:WSES: Beef Tacos / Hatch Chili Queso
+DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
+  Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits
+ : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
