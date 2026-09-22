@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-14@willow-springs-lunch
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:WSES: Chana Masala / Rstd Ckn
-DESCRIPTION:Entrees: Chana Masala with Rice\, Homestyle Roasted Chicken\nGr
- ab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Dinner Roll\nVegetab
- les: Creamy Garlic Spinach\, Ginger Glazed Carrots\nFresh Fruits: Fresh Sw
- eet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-15@willow-springs-lunch
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
@@ -83,11 +71,11 @@ UID:wses-2026-09-22@willow-springs-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:WSES: Spcy Beef & Queso Bowl / Crmy Spnch Dip
-DESCRIPTION:Entrees: Spicy Beef & Queso Rice Bowl\, Creamy Spinach Dip\, Ch
- eddar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: W
- hole Grain Tortilla Chips\nVegetables: Buttered Corn\nFresh Fruits: Fresh 
- Cantaloupe\nFresh Vegetables: Fresh Made Pico de Gallo
+SUMMARY:WSES: Crmy Spnch Dip / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Creamy Spinach Dip\, Cheddar Cheese Chef Salad\, Hatch
+  Chili Queso\, Beef Nachos\, Vanilla Yogurt & Strawberry Parfait\nGrains: 
+ Whole Grain Tortilla Chips\nVegetables: Savory Green Beans\nFresh Fruits: 
+ Fresh Bananas\nFresh Vegetables: Fresh Made Pico de Gallo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -337,6 +325,18 @@ SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
   Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-22@willow-springs-lunch
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:WSES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
+ Fresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
