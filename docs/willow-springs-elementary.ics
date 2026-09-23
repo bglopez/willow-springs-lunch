@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-15@willow-springs-lunch
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
-  Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Whole Grain Torti
- lla Chips\nVegetables: Ranch Style Pinto Beans\, Chili Spiced Corn\nFruits
- : 100% Fruit Blend Juice\nGarnish: Fresh Diced Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-16@willow-springs-lunch
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -337,6 +325,17 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
  nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
  \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
  Fresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-23@willow-springs-lunch
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
+ uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
+ Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
