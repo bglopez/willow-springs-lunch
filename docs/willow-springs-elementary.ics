@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-18@willow-springs-lunch
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nVegetables: Garlic Green Beans\nFruits: 100% J
- uice Frozen Fruit Cup\, Strawberry\nFresh Vegetables: Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-21@willow-springs-lunch
 DTSTAMP:20260921T000000Z
 DTSTART;VALUE=DATE:20260921
@@ -199,6 +188,15 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wses-2026-10-15@willow-springs-lunch
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:wses-2026-10-16@willow-springs-lunch
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
@@ -266,6 +264,18 @@ SUMMARY:WSES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
  uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
  Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-26@willow-springs-lunch
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:WSES: Srrcha Honey Popcrn Ckn
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
+ Drumstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetable
+ s: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Del
+ icious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
