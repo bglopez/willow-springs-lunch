@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-21@willow-springs-lunch
-DTSTAMP:20260921T000000Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:WSES: Bkd Ckn Bites / Salsbry Steak / Strwbry Parf
-DESCRIPTION:Entrees: Baked Chicken Bites\, Salisbury Steak with Brown Gravy
- \, Vanilla Yogurt & Fresh Strawberry Parfait\nGrab and go: Strawberry Yogu
- rt Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut Fre
- nch Fries\, BBQ Pinto Beans\nFresh Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-22@willow-springs-lunch
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
@@ -299,6 +287,17 @@ SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFruits: 1
  00% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-29@willow-springs-lunch
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
+ s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
+ uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
