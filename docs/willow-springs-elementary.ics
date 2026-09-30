@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-22@willow-springs-lunch
-DTSTAMP:20260922T000000Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:WSES: Crmy Spnch Dip / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Creamy Spinach Dip\, Cheddar Cheese Chef Salad\, Hatch
-  Chili Queso\, Beef Nachos\, Vanilla Yogurt & Strawberry Parfait\nGrains: 
- Whole Grain Tortilla Chips\nVegetables: Savory Green Beans\nFresh Fruits: 
- Fresh Bananas\nFresh Vegetables: Fresh Made Pico de Gallo
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-23@willow-springs-lunch
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
@@ -298,6 +286,21 @@ SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
 DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
  s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
  uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-30@willow-springs-lunch
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
+ es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Berry Americ
+ a\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit C
+ up\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice F
+ rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
+  100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
+ h Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
