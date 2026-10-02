@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-24@willow-springs-lunch
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:WSES: Gen Tso Ckn Bowl / Ckn Dmplngs
-DESCRIPTION:Entrees: General Tso's Popcorn Chicken Rice Bowl\, Chicken & Ve
- getable Dumplings\, Cheddar Cheese Chef Salad\nGrab and go: Salsa & String
-  Cheese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Savory Green Bea
- ns\, Steamed Buttered Broccoli\nFruits: Mixed Fruit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-25@willow-springs-lunch
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
