@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-25@willow-springs-lunch
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
-  Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nFresh Vegetables: 
- Fresh Tossed Salad\, Sugar Roasted Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-28@willow-springs-lunch
 DTSTAMP:20260928T000000Z
 DTSTART;VALUE=DATE:20260928
@@ -277,6 +266,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
   100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
  h Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-02@willow-springs-lunch
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:WSES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Frui
+ ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
