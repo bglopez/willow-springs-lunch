@@ -73,11 +73,13 @@ UID:wses-2026-10-05@willow-springs-lunch
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:WSES: Srrcha Honey Popcrn Ckn
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
- Drumstick\, Cheddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGr
- ains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables: Glazed Car
- rots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delicious Apples
+SUMMARY:WSES: Srrcha Honey Popcrn Ckn / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Cheddar Cheese Chef S
+ alad\, Baked Chicken Drumstick\, Honey Sriracha Chicken Bites\nGrab and go
+ : Vanilla Yogurt Box\, Salsa & String Cheese Box\nGrains: Steamed Brown Ri
+ ce\, Fresh Baked Dinner Roll\nVegetables: Steamed Buttered Broccoli\nFresh
+  Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Fresh Grape Tomatoes\
+ , Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -289,6 +291,17 @@ SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
 DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
  nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
  i\, Flame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Cantaloupe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-04@willow-springs-lunch
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:WSES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
+DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
+ etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
+ s: Fresh Caprese Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
