@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-28@willow-springs-lunch
-DTSTAMP:20260928T000000Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:WSES: Tang Ckn & Bowl / Ckn Tikka Masala
-DESCRIPTION:Entrees: Tangerine Chicken & Rice Bowl\, Chicken Tikka Masala w
- ith Rice\, Cheddar Cheese Chef Salad\nGrab and go: String Cheese & Cracker
- s Box\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Car
- rots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Fr
- uit Punch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-29@willow-springs-lunch
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
@@ -90,9 +77,8 @@ DTEND;VALUE=DATE:20261007
 SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
   Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
- ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & 
- Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettuce\, F
- resh Diced Tomatoes
+ ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Buttered Carrot Coins
+ \nFruits: Mixed Fruit
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -298,10 +284,22 @@ UID:wses-2026-11-04@willow-springs-lunch
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:WSES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
-DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\nVeg
- etables: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetable
- s: Fresh Caprese Salad
+SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Marin
+DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Marinara\, Spaghe
+ tti with Meat Sauce\nGrains: Whole Grain Garlic Breadstick\nVegetables: Ba
+ ked Sweet Potato Fries\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fre
+ sh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-05@willow-springs-lunch
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nVege
+ tables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetabl
+ es: Creamy Coleslaw\nCondiment: Hot Dog Chili
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
