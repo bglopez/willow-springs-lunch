@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-29@willow-springs-lunch
-DTSTAMP:20260929T000000Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20260930
-SUMMARY:WSES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Chedda
- r Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole
-  Grain Tortilla Chips\nVegetables: Salsa\nFresh Fruits: Fresh Sweet Apple 
- Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-09-30@willow-springs-lunch
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -300,6 +288,17 @@ SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
 DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nVege
  tables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetabl
  es: Creamy Coleslaw\nCondiment: Hot Dog Chili
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-06@willow-springs-lunch
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ Sliced Pears\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Ca
+ rrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
