@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-09-30@willow-springs-lunch
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:WSES: Grld Ckn Wrap / Chdr Ch Chef Sld / Rotini Marin
-DESCRIPTION:Entrees: Grilled Chicken Wrap\, Cheddar Cheese Chef Salad\, Bak
- ed Rotini & Marinara\nGrab and go: String Cheese & Crackers Box\nGrains: F
- resh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits: Mixed Fruit\
- nFresh Vegetables: Fresh Marinated Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-01@willow-springs-lunch
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
@@ -87,10 +75,10 @@ DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\, Ched
- dar Cheese Chef Salad\nGrab and go: String Cheese & Crackers Box\nGrains: 
- Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruit
- s: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrab 
+ and go: Salsa & String Cheese Box\nGrains: Garlic Butter Dinner Roll\nVege
+ tables: Mixed Vegetable Medley\nFresh Fruits: Fresh Oranges\nFresh Vegetab
+ les: Fresh Spinach Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
