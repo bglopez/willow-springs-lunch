@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-01@willow-springs-lunch
-DTSTAMP:20261001T000000Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\nGrab and go: Salsa & String Cheese Box\nGrains: Fresh Bake
- d Dinner Roll\nVegetables: Mixed Vegetable Medley\, Savory Green Beans\nFr
- esh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled Cucumber
-  Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-02@willow-springs-lunch
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
@@ -87,9 +74,9 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Strawberry\n
- Fresh Vegetables: Fresh Tossed Salad
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Vanilla Yogurt Box\nVegetables: Garlic Green Beans\nFresh Fruits: Fre
+ sh Bananas\, Fresh Apple Slices\nFresh Vegetables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
