@@ -69,6 +69,19 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wses-2026-10-12@willow-springs-lunch
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
+ Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Bo
+ x\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French F
+ ries\nFresh Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Fresh Baby
+  Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:wses-2026-10-15@willow-springs-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
