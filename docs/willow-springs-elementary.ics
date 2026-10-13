@@ -8,20 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-05@willow-springs-lunch
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:WSES: Srrcha Honey Popcrn Ckn / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Cheddar Cheese Chef S
- alad\, Baked Chicken Drumstick\, Honey Sriracha Chicken Bites\nGrab and go
- : Vanilla Yogurt Box\, Salsa & String Cheese Box\nGrains: Steamed Brown Ri
- ce\, Fresh Baked Dinner Roll\nVegetables: Steamed Buttered Broccoli\nFresh
-  Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Fresh Grape Tomatoes\
- , Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-06@willow-springs-lunch
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
@@ -79,6 +65,18 @@ DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with
  x\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French F
  ries\nFresh Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Fresh Baby
   Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-13@willow-springs-lunch
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
+DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
+ , Vanilla Yogurt & Pineapple Parfait\nGrains: Garlic Butter Dinner Roll\nV
+ egetables: Marinara\, Steamed Broccoli\, Buttered Corn\nFresh Fruits: Fres
+ h Cantaloupe\, Fresh Honeydew Melon
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -302,6 +300,17 @@ SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
  Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
   Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-12@willow-springs-lunch
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
+ ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
+ Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
