@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-06@willow-springs-lunch
-DTSTAMP:20261006T000000Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
-  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
- ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Buttered Carrot Coins
- \nFruits: Mixed Fruit
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-07@willow-springs-lunch
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
@@ -77,6 +65,18 @@ DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
  , Vanilla Yogurt & Pineapple Parfait\nGrains: Garlic Butter Dinner Roll\nV
  egetables: Marinara\, Steamed Broccoli\, Buttered Corn\nFresh Fruits: Fres
  h Cantaloupe\, Fresh Honeydew Melon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-10-14@willow-springs-lunch
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:WSES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
+DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\, Ch
+ eddar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nVegetable
+ s: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetables: Fre
+ sh Caprese Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -311,6 +311,18 @@ SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
  ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
  Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-13@willow-springs-lunch
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
+ 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
+  Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
+ , Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
