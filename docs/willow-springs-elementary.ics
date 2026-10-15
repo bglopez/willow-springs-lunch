@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-07@willow-springs-lunch
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Straw
- berry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Grape 
- Juice\nFresh Vegetables: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-08@willow-springs-lunch
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
@@ -85,7 +73,8 @@ DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nFrui
+ ts: 100% Juice Kiwi Strawberry Slushie\, 100% Juice Blue Raspberry Slushie
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
