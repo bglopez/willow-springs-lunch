@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-08@willow-springs-lunch
-DTSTAMP:20261008T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrab 
- and go: Salsa & String Cheese Box\nGrains: Garlic Butter Dinner Roll\nVege
- tables: Mixed Vegetable Medley\nFresh Fruits: Fresh Oranges\nFresh Vegetab
- les: Fresh Spinach Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-09@willow-springs-lunch
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
@@ -83,8 +71,9 @@ DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Ve
- getables: Fresh Tossed Salad\, Sugar Roasted Baby Carrots
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: Strawberry Yogurt Box\nFresh Fruits: Fresh Apple Slices\nFresh Vegeta
+ bles: Fresh Tossed Salad\, Sugar Roasted Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
