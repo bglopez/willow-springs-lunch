@@ -71,13 +71,10 @@ DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:WSES: Mandarin Orange Popcrn Ckn / Veggie Lo Mein
-DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\nGrai
- ns: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Stea
- med Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry America
- \, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit Cu
- p\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice Fr
- ozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\, 
- 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\, Che
+ ddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGrains: Whole Gra
+ in Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed Buttered 
+ Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Fruit Punch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -86,9 +83,10 @@ DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:WSES: Beef Tacos / Hatch Chili Queso
-DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\nGrains:
-  Whole Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits
- : Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Chedda
+ r Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole
+  Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fres
+ h Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -96,10 +94,11 @@ UID:wses-2026-10-21@willow-springs-lunch
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
-SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap
+SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
-  Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+ ap\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains
+ : Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits: Mixed Fru
+ it\nFresh Vegetables: Fresh Marinated Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -107,11 +106,12 @@ UID:wses-2026-10-22@willow-springs-lunch
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
-SUMMARY:WSES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
- nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
- \nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fresh Honeydew Melon\n
- Fresh Vegetables: Quick Pickled Cucumber Sticks
+SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
+ Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Salsa & String Ch
+ eese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Med
+ ley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled C
+ ucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -132,9 +132,9 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:WSES: Srrcha Honey Popcrn Ckn
 DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
- Drumstick\nGrains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetable
- s: Glazed Carrots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Del
- icious Apples\, Fresh Golden Delicious Apples\, Fresh Gala Apples
+ Drumstick\, Cheddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGr
+ ains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables: Glazed Car
+ rots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delicious Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -142,11 +142,12 @@ UID:wses-2026-10-27@willow-springs-lunch
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:WSES: Beef Nachos / Ch Quesa
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
- rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
- orn & Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettu
- ce\, Fresh Diced Tomatoes
+SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
+  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
+ ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & 
+ Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettuce\, F
+ resh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -154,10 +155,11 @@ UID:wses-2026-10-28@willow-springs-lunch
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
+SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFruits: 1
- 00% Grape Juice\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Straw
+ berry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Grape 
+ Juice\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -166,9 +168,10 @@ DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\nGrain
- s: Garlic Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fr
- uits: Fresh Oranges\nFresh Vegetables: Fresh Spinach Salad
+DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\, Ched
+ dar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Garlic 
+ Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fres
+ h Oranges\nFresh Vegetables: Fresh Spinach Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -178,12 +181,7 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:WSES: Ch/Pep Piz
 DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Berry Americ
- a\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit C
- up\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice F
- rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
-  100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
- h Tossed Salad
+ es: Garlic Green Beans\nFresh Vegetables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -315,6 +313,17 @@ DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
  orn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\,
   100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGarnish: S
  hredded Iceberg Lettuce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-18@willow-springs-lunch
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
+DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
+ \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFresh Fru
+ its: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
