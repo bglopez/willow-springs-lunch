@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-12@willow-springs-lunch
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Bo
- x\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut French F
- ries\nFresh Fruits: Fresh Sweet Apple Slices\nFresh Vegetables: Fresh Baby
-  Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-13@willow-springs-lunch
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -179,9 +166,11 @@ UID:wses-2026-10-30@willow-springs-lunch
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Garlic Green Beans\nFresh Vegetables: Fresh Tossed Salad
+SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
+  Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nVegetables: Ga
+ rlic Green Beans\nFresh Fruits: Fresh Bananas\nFruits: 100% Juice Frozen F
+ ruit Cup\, Fruit Punch\nFresh Vegetables: Fresh Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -189,11 +178,11 @@ UID:wses-2026-11-02@willow-springs-lunch
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:WSES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
- nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
- \nVegetables: Baked Crinkle Cut French Fries\, BBQ Pinto Beans\nFresh Frui
- ts: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
+SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
+ Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt
+  Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut Frenc
+ h Fries\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -203,8 +192,9 @@ DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
 DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
- nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
- i\, Flame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Cantaloupe
+ , Cheddar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrain
+ s: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccoli\, Fl
+ ame Roasted Corn & Jalapeno Blend\nFresh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -212,11 +202,11 @@ UID:wses-2026-11-04@willow-springs-lunch
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Marin
-DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Marinara\, Spaghe
- tti with Meat Sauce\nGrains: Whole Grain Garlic Breadstick\nVegetables: Ba
- ked Sweet Potato Fries\nFresh Fruits: Fresh Oranges\nFresh Vegetables: Fre
- sh Caprese Salad
+SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
+DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Ched
+ dar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Who
+ le Grain Garlic Breadstick\nVegetables: Baked Sweet Potato Fries\nFresh Fr
+ uits: Fresh Oranges\nFresh Vegetables: Fresh Caprese Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -224,10 +214,11 @@ UID:wses-2026-11-05@willow-springs-lunch
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:WSES: Hot Dog / Grld Ckn Wrap
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\nVege
- tables: Savory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetabl
- es: Creamy Coleslaw\nCondiment: Hot Dog Chili
+SUMMARY:WSES: Hot Dog / Grld Ckn Wrap / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Che
+ ddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nVegetables: Sa
+ vory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Creamy
+  Coleslaw
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -235,10 +226,11 @@ UID:wses-2026-11-06@willow-springs-lunch
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- Sliced Pears\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Ca
- rrots
+SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
+  Cheese Chef Salad\nGrab and go: String Cheese & Crackers Box\nFruits: Sli
+ ced Pears\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Carro
+ ts
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -324,6 +316,18 @@ SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFresh Fru
  its: Fresh Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-19@willow-springs-lunch
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:WSES: Bkd Ckn Bites
+DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
+ an Gravy\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinner Ro
+ ll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruits: Ap
+ plesauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
