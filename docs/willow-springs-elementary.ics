@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-13@willow-springs-lunch
-DTSTAMP:20261013T000000Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
-DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
- , Vanilla Yogurt & Pineapple Parfait\nGrains: Garlic Butter Dinner Roll\nV
- egetables: Marinara\, Steamed Broccoli\, Buttered Corn\nFresh Fruits: Fres
- h Cantaloupe\, Fresh Honeydew Melon
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-14@willow-springs-lunch
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -72,8 +60,8 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:WSES: Beef Tacos / Hatch Chili Queso
 DESCRIPTION:Entrees: Beef & Cheddar Soft Tacos\, Hatch Chili Queso\, Chedda
  r Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole
-  Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fres
- h Sweet Apple Slices
+  Grain Tortilla Chips\nVegetables: Street Corn\, Salsa\, Savory Green Bean
+ s\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -328,6 +316,21 @@ DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
  an Gravy\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinner Ro
  ll\nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruits: Ap
  plesauce Cup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-20@willow-springs-lunch
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
+ es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Berry Americ
+ a\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit C
+ up\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice F
+ rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
+  100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
+ h Tossed Salad
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
