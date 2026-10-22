@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-14@willow-springs-lunch
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:WSES: Carnival Corn Dog Nuggets / Pimnto Ch Burger
-DESCRIPTION:Entrees: Carnival Corn Dog Nuggets\, Pimento Cheese Burger\, Ch
- eddar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nVegetable
- s: Baked Sweet Potato Fries\nFruits: Applesauce Cup\nFresh Vegetables: Fre
- sh Caprese Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-15@willow-springs-lunch
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
@@ -227,13 +215,10 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
-DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
- rains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, S
- teamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry Amer
- ica\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit
-  Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice
-  Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple
- \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\, 
+ Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Who
+ le Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed But
+ tered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Black Cheery
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -241,10 +226,11 @@ UID:wses-2026-11-10@willow-springs-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
-  Apple Slices\, Fresh Tart Apple Slices
+SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\, Cheddar Cheese Chef
+  Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain Tortil
+ la Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple
+  Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -252,10 +238,11 @@ UID:wses-2026-11-12@willow-springs-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch
+SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
- Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+ ese\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrain
+ s: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFruits: Ap
+ plesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -263,11 +250,10 @@ UID:wses-2026-11-13@willow-springs-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
-  Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
- , Fresh Baby Carrots
+SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
+  Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nFruits: 100% G
+ rape Juice\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
