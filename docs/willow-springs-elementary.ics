@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-16@willow-springs-lunch
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: Strawberry Yogurt Box\nFresh Fruits: Fresh Apple Slices\nFresh Vegeta
- bles: Fresh Tossed Salad\, Sugar Roasted Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-19@willow-springs-lunch
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
@@ -307,6 +296,16 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  rozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple\,
   100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: Fres
  h Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-23@willow-springs-lunch
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:WSES: Hot Dog
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\nVegetables: Baked Crinkle C
+ ut French Fries\, BBQ Pinto Beans\nFruits: Sliced Pears
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
