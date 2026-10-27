@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-19@willow-springs-lunch
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:WSES: Mandarin Orange Popcrn Ckn / Veggie Lo Mein
-DESCRIPTION:Entrees: Mandarin Orange Popcorn Chicken\, Veggie Lo Mein\, Che
- ddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGrains: Whole Gra
- in Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed Buttered 
- Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Fruit Punch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-20@willow-springs-lunch
 DTSTAMP:20261020T000000Z
 DTSTART;VALUE=DATE:20261020
@@ -87,10 +75,10 @@ DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
-  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
- ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & 
- Jalapeno Blend\nFruits: Mixed Fruit\nGarnish: Shredded Iceberg Lettuce\, F
- resh Diced Tomatoes
+  Chef Salad\nGrab and go: Vanilla Yogurt Box\nGrains: Whole Grain Tortilla
+  Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & Jalapen
+ o Blend\nFruits: 100% Juice Blue Raspberry Slushie\, 100% Juice Kiwi Straw
+ berry Slushie\nGarnish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
