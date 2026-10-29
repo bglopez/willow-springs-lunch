@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-21@willow-springs-lunch
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains
- : Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits: Mixed Fru
- it\nFresh Vegetables: Fresh Marinated Tomatoes
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-22@willow-springs-lunch
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
@@ -213,14 +201,27 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wses-2026-11-16@willow-springs-lunch
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:WSES: BBQ Ckn Drumstick / Carnival Corn Dog
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\, Cheddar Ch
+ eese Chef Salad\nGrab and go: String Cheese & Crackers Box\nGrains: Fresh 
+ Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:wses-2026-11-17@willow-springs-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:WSES: Beef Nachos / Ch Quesa
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\nGrains: Whole G
- rain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted C
- orn & Jalapeno Blend
+SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
+  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
+ ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & 
+ Jalapeno Blend\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded Iceberg 
+ Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -228,10 +229,11 @@ UID:wses-2026-11-18@willow-springs-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
+SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\nVegetables: Baked Emoticon Potatoes\nFresh Veg
- etables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Straw
+ berry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFresh Fruits: Fresh
+  Oranges\nFresh Vegetables: Fresh Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -240,7 +242,11 @@ DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:WSES: Bkd Ckn Bites
-DESCRIPTION:Entrees: Baked Chicken Bites\nGrains: Garlic Butter Dinner Roll
+DESCRIPTION:Entrees: Baked Chicken Bites\, Roasted Turkey Tenderloin with P
+ an Gravy\, Cheddar Cheese Chef Salad\nGrab and go: String Cheese & Cracker
+ s Box\nGrains: Whole Grain Cornbread Stuffing\, Garlic Butter Dinner Roll\
+ nVegetables: Homestyle Mashed Potatoes\, Savory Green Beans\nFruits: Apple
+ sauce Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -248,10 +254,32 @@ UID:wses-2026-11-20@willow-springs-lunch
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
- es: Garlic Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Fruit Punch\
- nFresh Vegetables: Fresh Tossed Salad
+SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
+  Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nVegetables: Garlic
+  Green Beans\nFruits: 100% Juice Frozen Fruit Cup\, Fruit Punch\nFresh Veg
+ etables: Fresh Tossed Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-23@willow-springs-lunch
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:WSES: Hot Dog / Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Cheddar Cheese Chef Salad\
+ nGrab and go: Salsa & String Cheese Box\nVegetables: Baked Crinkle Cut Fre
+ nch Fries\, BBQ Pinto Beans\nFruits: Sliced Pears
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-24@willow-springs-lunch
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:WSES: Chdr Ch Chef Sld
+DESCRIPTION:Entrees: Cheddar Cheese Chef Salad\nGrab and go: String Cheese 
+ & Crackers Box
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
