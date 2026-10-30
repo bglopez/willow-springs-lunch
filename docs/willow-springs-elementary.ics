@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-22@willow-springs-lunch
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Salsa & String Ch
- eese Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Med
- ley\nFresh Fruits: Fresh Honeydew Melon\nFresh Vegetables: Quick Pickled C
- ucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-23@willow-springs-lunch
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
