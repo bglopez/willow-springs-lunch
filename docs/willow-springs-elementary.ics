@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-23@willow-springs-lunch
-DTSTAMP:20261023T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFresh Fr
- uits: Fresh Bananas\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby 
- Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-26@willow-springs-lunch
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
@@ -267,6 +256,21 @@ DTEND;VALUE=DATE:20261125
 SUMMARY:WSES: Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Cheddar Cheese Chef Salad\nGrab and go: String Cheese 
  & Crackers Box
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-11-30@willow-springs-lunch
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
+DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
+ rains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, S
+ teamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry Amer
+ ica\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit
+  Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice
+  Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple
+ \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
