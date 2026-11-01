@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31",
+  "generated": "2026-11-01",
   "feeds": [
     {
       "name": "Willow Springs Elementary Lunch",
       "slug": "willow-springs-elementary",
-      "days": 22,
-      "through": "2026-11-30"
+      "days": 23,
+      "through": "2026-12-01"
     }
   ]
 }
