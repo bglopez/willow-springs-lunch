@@ -74,11 +74,12 @@ UID:wses-2026-11-02@willow-springs-lunch
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili / Chdr Ch Chef Sld
+SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt
-  Box\nGrains: Fresh Baked Dinner Roll\nVegetables: Baked Crinkle Cut Frenc
- h Fries\nFresh Fruits: Fresh Sweet Apple Slices
+ Cheddar Cheese\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Di
+ nner Roll\nVegetables: Baked Crinkle Cut French Fries\, Baked Emoticon Pot
+ atoes\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Bananas\, Fresh Nava
+ l Oranges\nBreakfast Entree: Whole Grain Buttered Toast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -282,6 +283,17 @@ SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
  Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
   Apple Slices\, Fresh Tart Apple Slices
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-02@willow-springs-lunch
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap
+DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
+ ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
+  Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
