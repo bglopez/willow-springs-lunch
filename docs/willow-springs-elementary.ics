@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-26@willow-springs-lunch
-DTSTAMP:20261026T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:WSES: Srrcha Honey Popcrn Ckn
-DESCRIPTION:Entrees: Sriracha Honey Popcorn Chicken\, Crispy Baked Chicken 
- Drumstick\, Cheddar Cheese Chef Salad\nGrab and go: Vanilla Yogurt Box\nGr
- ains: Steamed Brown Rice\, Fresh Baked Dinner Roll\nVegetables: Glazed Car
- rots\, Steamed Buttered Broccoli\nFresh Fruits: Fresh Red Delicious Apples
- \, Fresh Anjou Pears
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-27@willow-springs-lunch
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
@@ -294,6 +281,17 @@ SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
  ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
   Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-03@willow-springs-lunch
+DTSTAMP:20261203T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
+ ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
+ Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
