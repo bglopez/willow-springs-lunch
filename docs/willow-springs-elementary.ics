@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-28@willow-springs-lunch
-DTSTAMP:20261028T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Straw
- berry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFruits: 100% Grape 
- Juice\nFresh Vegetables: Fresh Cucumber Sticks
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-29@willow-springs-lunch
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
@@ -75,9 +63,10 @@ DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
 DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Ched
- dar Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Who
- le Grain Garlic Breadstick\nVegetables: Baked Sweet Potato Fries\nFresh Fr
- uits: Fresh Oranges\nFresh Vegetables: Fresh Caprese Salad
+ dar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Whole G
+ rain Garlic Breadstick\nVegetables: Baked Sweet Potato Fries\nFresh Fruits
+ : Fresh Oranges\, Fresh Anjou Pears\nFresh Vegetables: Fresh Tossed Salad\
+ , Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -238,14 +227,14 @@ UID:wses-2026-11-30@willow-springs-lunch
 DTSTAMP:20261130T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
-DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
- rains: Whole Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, S
- teamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Berry Amer
- ica\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Juice Frozen Fruit
-  Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Punch\, 100% Juice
-  Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green Apple
- \, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Ckn Dmplngs
+DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Chicken & Vegetab
+ le Dumplings\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Gla
+ zed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit C
+ up\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Jui
+ ce Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Pun
+ ch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cu
+ p\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -255,8 +244,9 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet
-  Apple Slices\, Fresh Tart Apple Slices
+ Tortilla Chips\nVegetables: Buttered Corn\, Cuban Seasoned Black Beans\nFr
+ esh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment:
+  Salsa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -264,10 +254,10 @@ UID:wses-2026-12-02@willow-springs-lunch
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:WSES: Mac & Ch / Grld Ckn Wrap
-DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Grilled Chicken Wr
- ap\nGrains: Fresh Baked Dinner Roll\nVegetables: Steamed Broccoli\nFruits:
-  Mixed Fruit\nFresh Vegetables: Fresh Marinated Tomatoes
+SUMMARY:WSES: Mac & Ch / Ch Filled Piz Sticks
+DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Cheese Filled Pizz
+ a Sticks\nGrains: Fresh Baked Dinner Roll\nVegetables: Marinara\, Steamed 
+ Broccoli\, Savory Green Beans\nFruits: Strawberry Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -275,10 +265,10 @@ UID:wses-2026-12-03@willow-springs-lunch
 DTSTAMP:20261203T000000Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
-SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\nGrains: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\n
- Fruits: Applesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+SUMMARY:WSES: Bkd Popcrn Ckn / Hot Dog
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Butterball Turkey Hot Dog\nGra
+ ins: Fresh Baked Dinner Roll\nVegetables: Vegetarian Baked Beans\, Baked C
+ rinkle Cut French Fries\nFruits: Diced Peaches
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -287,10 +277,10 @@ DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nFruits: 
- 100% Apple Juice\, 100% Apple Cherry Juice\, 100% Fruit Blend Juice\, 100%
-  Grape Juice\, 100% Orange Juice\nFresh Vegetables: Cheez-It Caesar Salad\
- , Fresh Baby Carrots
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
+ es: Mixed Vegetable Medley\nFruits: 100% Apple Juice\, 100% Apple Cherry J
+ uice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nFres
+ h Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
