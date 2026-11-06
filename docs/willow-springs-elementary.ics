@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-29@willow-springs-lunch
-DTSTAMP:20261029T000000Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:WSES: Spaghetti w/ Meat Sauce / Bkd Ckn Bites
-DESCRIPTION:Entrees: Spaghetti with Meat Sauce\, Baked Chicken Bites\, Ched
- dar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Garlic 
- Butter Dinner Roll\nVegetables: Mixed Vegetable Medley\nFresh Fruits: Fres
- h Oranges\nFresh Vegetables: Fresh Spinach Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-10-30@willow-springs-lunch
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
