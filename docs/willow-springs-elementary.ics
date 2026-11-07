@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-10-30@willow-springs-lunch
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
-  Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nVegetables: Ga
- rlic Green Beans\nFresh Fruits: Fresh Bananas\nFruits: 100% Juice Frozen F
- ruit Cup\, Fruit Punch\nFresh Vegetables: Fresh Tossed Salad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-02@willow-springs-lunch
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -74,11 +62,11 @@ UID:wses-2026-11-06@willow-springs-lunch
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
-  Cheese Chef Salad\nGrab and go: String Cheese & Crackers Box\nFruits: Sli
- ced Pears\nFresh Vegetables: Fresh Tossed Salad\, Sugar Roasted Baby Carro
- ts
+SUMMARY:WSES: Ch/Pep Piz / Vanilla Yogurt Box w/ Crackers
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
+  Yogurt Box with Crackers\, Deli Turkey Ham & Cheese Sandwich\nFruits: Sli
+ ced Pears\, Applesauce Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar R
+ oasted Baby Carrots\, Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -269,6 +257,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  es: Mixed Vegetable Medley\nFruits: 100% Apple Juice\, 100% Apple Cherry J
  uice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nFres
  h Vegetables: Fresh Baby Carrots
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-07@willow-springs-lunch
+DTSTAMP:20261207T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:WSES: BBQ Ckn Drumstick / Carnival Corn Dog
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrains: Fre
+ sh Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Brocco
+ li\nFresh Fruits: Fresh Red Delicious Apples\, Fresh Golden Delicious Appl
+ es\, Fresh Gala Apples
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
