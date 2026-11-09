@@ -75,10 +75,10 @@ DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
-DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\, 
- Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Who
- le Grain Garlic Flatbread\nVegetables: Ginger Glazed Carrots\, Steamed But
- tered Broccoli\nFruits: 100% Juice Frozen Fruit Cup\, Black Cheery
+DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
+ rab and go: Strawberry Yogurt Box\nGrains: Whole Grain Garlic Flatbread\nV
+ egetables: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100%
+  Juice Frozen Fruit Cup\, Fruit Punch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -232,8 +232,8 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:WSES: Mac & Ch / Ch Filled Piz Sticks
 DESCRIPTION:Entrees: Homestyle Baked Macaroni & Cheese\, Cheese Filled Pizz
- a Sticks\nGrains: Fresh Baked Dinner Roll\nVegetables: Marinara\, Steamed 
- Broccoli\, Savory Green Beans\nFruits: Strawberry Cup
+ a Sticks\nGrains: Fresh Baked Dinner Roll\nVegetables: Marinara\, Savory G
+ reen Beans\nFruits: Strawberry Cup
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -282,6 +282,17 @@ DESCRIPTION:Entrees: Nacho Cheese Sauce\, Mini Cheese Quesadillas\nGrains:
  asted Corn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry 
  Juice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGar
  nish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-09@willow-springs-lunch
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:WSES: Hmbrg/Chzbrg / MorningStar Burger / Grld Ch
+DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
+ \, MorningStar Plant Based Burger\, Grilled Cheese Sandwich\nVegetables: B
+ aked Emoticon Potatoes\, Tomato Soup\nFresh Fruits: Fresh Oranges
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
