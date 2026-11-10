@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-02@willow-springs-lunch
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:WSES: Bkd Popcrn Ckn / 3-Bean Chili
-DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili with 
- Cheddar Cheese\nGrab and go: Strawberry Yogurt Box\nGrains: Fresh Baked Di
- nner Roll\nVegetables: Baked Crinkle Cut French Fries\, Baked Emoticon Pot
- atoes\nFresh Fruits: Fresh Sweet Apple Slices\, Fresh Bananas\, Fresh Nava
- l Oranges\nBreakfast Entree: Whole Grain Buttered Toast
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-03@willow-springs-lunch
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
@@ -86,11 +73,10 @@ UID:wses-2026-11-10@willow-springs-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\, Cheddar Cheese Chef
-  Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain Tortil
- la Chips\nVegetables: Street Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple
-  Slices
+SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrab and go: Salsa &
+  String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Street
+  Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -293,6 +279,18 @@ SUMMARY:WSES: Hmbrg/Chzbrg / MorningStar Burger / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
  \, MorningStar Plant Based Burger\, Grilled Cheese Sandwich\nVegetables: B
  aked Emoticon Potatoes\, Tomato Soup\nFresh Fruits: Fresh Oranges
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-10@willow-springs-lunch
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
+DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Spag
+ hetti with Marinara\nGrains: Whole Grain Garlic Breadstick\nVegetables: Sa
+ vory Green Beans\nFruits: Strawberry Cup\nFresh Vegetables: Fresh Baby Car
+ rots\nCondiment: Cranberry Sauce
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
