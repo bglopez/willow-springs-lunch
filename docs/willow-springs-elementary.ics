@@ -8,19 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-04@willow-springs-lunch
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
-DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Ched
- dar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrains: Whole G
- rain Garlic Breadstick\nVegetables: Baked Sweet Potato Fries\nFresh Fruits
- : Fresh Oranges\, Fresh Anjou Pears\nFresh Vegetables: Fresh Tossed Salad\
- , Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-05@willow-springs-lunch
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
@@ -72,11 +59,12 @@ UID:wses-2026-11-12@willow-springs-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch / Chdr Ch Chef Sld
+SUMMARY:WSES: Bkd Popcrn Ckn / Mac & Ch / Bkd Ckn Nuggets
 DESCRIPTION:Entrees: Baked Popcorn Chicken\, Homestyle Baked Macaroni & Che
- ese\, Cheddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nGrain
- s: Fresh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFruits: Ap
- plesauce Cup\nFresh Vegetables: Quick Pickled Cucumber Sticks
+ ese\, Baked Chicken Nuggets\nGrab and go: Strawberry Yogurt Box\nGrains: F
+ resh Baked Dinner Roll\nVegetables: Mixed Vegetable Medley\nFruits: Apples
+ auce Cup\, Pineapple Tidbits\nFresh Vegetables: Quick Pickled Cucumber Sti
+ cks
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -194,9 +182,8 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Buttered Corn\, Cuban Seasoned Black Beans\nFr
- esh Fruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment:
-  Salsa
+ Tortilla Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFresh Fr
+ uits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment: Salsa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
