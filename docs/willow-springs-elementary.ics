@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-05@willow-springs-lunch
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:WSES: Hot Dog / Grld Ckn Wrap / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Grilled Chicken Wrap\, Che
- ddar Cheese Chef Salad\nGrab and go: Strawberry Yogurt Box\nVegetables: Sa
- vory Green Beans\nFruits: 100% Fruit Blend Juice\nFresh Vegetables: Creamy
-  Coleslaw
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-06@willow-springs-lunch
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -50,8 +38,8 @@ DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrab and go: Salsa &
-  String Cheese Box\nGrains: Whole Grain Tortilla Chips\nVegetables: Street
-  Corn\, Salsa\nFresh Fruits: Fresh Sweet Apple Slices
+  String Cheese Box\nGrains: WG Tortilla Chips\nVegetables: Street Corn\, S
+ alsa\nFresh Fruits: Fresh Sweet Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -72,10 +60,11 @@ UID:wses-2026-11-13@willow-springs-lunch
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:WSES: Ch/Pep Piz / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Cheddar
-  Cheese Chef Salad\nGrab and go: Salsa & String Cheese Box\nFruits: 100% G
- rape Juice\nFresh Vegetables: Cheez-It Caesar Salad\, Fresh Baby Carrots
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
+  go: String Cheese & Crackers Box\nFruits: 100% Fruit Blend Juice\nFresh V
+ egetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\, Fresh Grape Tomato
+ es
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -96,10 +85,10 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
 DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
-  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: Whole Grain T
- ortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & 
- Jalapeno Blend\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded Iceberg 
- Lettuce\, Fresh Diced Tomatoes
+  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: WG Tortilla C
+ hips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & Jalapeno 
+ Blend\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\,
+  Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -181,9 +170,9 @@ DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: Whole Grain 
- Tortilla Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFresh Fr
- uits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment: Salsa
+DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: WG Tortilla 
+ Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFresh Fruits: Fre
+ sh Sweet Apple Slices\, Fresh Tart Apple Slices\nCondiment: Salsa
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -239,10 +228,10 @@ DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:WSES: Nacho Ch Sauce / Ch Quesa
 DESCRIPTION:Entrees: Nacho Cheese Sauce\, Mini Cheese Quesadillas\nGrains: 
- Whole Grain Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Ro
- asted Corn & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry 
- Juice\, 100% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGar
- nish: Shredded Iceberg Lettuce\, Fresh Diced Tomatoes
+ WG Tortilla Chips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Cor
+ n & Jalapeno Blend\nFruits: 100% Apple Juice\, 100% Apple Cherry Juice\, 1
+ 00% Fruit Blend Juice\, 100% Grape Juice\, 100% Orange Juice\nGarnish: Shr
+ edded Iceberg Lettuce\, Fresh Diced Tomatoes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -263,9 +252,9 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:WSES: Bkd Ckn Bites / Spaghetti w/ Meat Sauce
 DESCRIPTION:Entrees: Baked Chicken Bites\, Spaghetti with Meat Sauce\, Spag
- hetti with Marinara\nGrains: Whole Grain Garlic Breadstick\nVegetables: Sa
- vory Green Beans\nFruits: Strawberry Cup\nFresh Vegetables: Fresh Baby Car
- rots\nCondiment: Cranberry Sauce
+ hetti with Marinara\nGrains: WG Garlic Breadstick\nVegetables: Savory Gree
+ n Beans\nFruits: Strawberry Cup\nFresh Vegetables: Fresh Baby Carrots\nCon
+ diment: Cranberry Sauce
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
