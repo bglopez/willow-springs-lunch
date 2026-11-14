@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-06@willow-springs-lunch
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:WSES: Ch/Pep Piz / Vanilla Yogurt Box w/ Crackers
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\, Vanilla
-  Yogurt Box with Crackers\, Deli Turkey Ham & Cheese Sandwich\nFruits: Sli
- ced Pears\, Applesauce Cup\nFresh Vegetables: Fresh Tossed Salad\, Sugar R
- oasted Baby Carrots\, Fresh Baby Carrots
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-09@willow-springs-lunch
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -270,6 +258,18 @@ DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nVegetabl
  ce Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cup\, Green App
  le\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade\nFresh Vegetables: 
  Fresh Caprese Salad
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-14@willow-springs-lunch
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:WSES: Bkd Popcrn Ckn / 3 Bean Chili / 3-Bean Chili
+DESCRIPTION:Entrees: Baked Popcorn Chicken\, Plant Based 3 Bean Chili\, Pla
+ nt Based 3 Bean Chili with Cheddar Cheese\nGrains: Fresh Baked Dinner Roll
+ \nVegetables: Savory Green Beans\, Baked Crinkle Cut French Fries\nFresh F
+ ruits: Fresh Sweet Apple Slices\, Fresh Tart Apple Slices
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
