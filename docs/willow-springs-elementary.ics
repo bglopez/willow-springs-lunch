@@ -61,9 +61,10 @@ DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:WSES: BBQ Ckn Drumstick / Carnival Corn Dog
-DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\, Cheddar Ch
- eese Chef Salad\nGrab and go: String Cheese & Crackers Box\nGrains: Fresh 
- Baked Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli
+DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrab and go
+ : String Cheese & Crackers Box\, Strawberry Yogurt Box\nGrains: Fresh Bake
+ d Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nFru
+ its: 100% Juice Frozen Fruit Cup\, Fruit Punch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -281,6 +282,17 @@ SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
 DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrains: WG Tortilla 
  Chips\nVegetables: Buttered Corn\, Seasoned Black Beans\nFresh Fruits: Fre
  sh Oranges\nCondiment: Salsa
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-16@willow-springs-lunch
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
+DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
+ nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
+ i\nFresh Fruits: Fresh Cantaloupe
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
