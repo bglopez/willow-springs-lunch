@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-09@willow-springs-lunch
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Veggie Lo Mein
-DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Veggie Lo Mein\nG
- rab and go: Strawberry Yogurt Box\nGrains: Whole Grain Garlic Flatbread\nV
- egetables: Ginger Glazed Carrots\, Steamed Buttered Broccoli\nFruits: 100%
-  Juice Frozen Fruit Cup\, Fruit Punch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-10@willow-springs-lunch
 DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
@@ -72,12 +60,11 @@ UID:wses-2026-11-17@willow-springs-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:WSES: Beef Nachos / Ch Quesa / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Beef Nachos\, Mini Cheese Quesadillas\, Cheddar Cheese
-  Chef Salad\nGrab and go: Salsa & String Cheese Box\nGrains: WG Tortilla C
- hips\nVegetables: Ranch Style Pinto Beans\, Flame Roasted Corn & Jalapeno 
- Blend\nFruits: 100% Fruit Blend Juice\nGarnish: Shredded Iceberg Lettuce\,
-  Fresh Diced Tomatoes
+SUMMARY:WSES: Ch Quesa / Beef Nachos
+DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef Nachos\nGrab and go: St
+ rawberry Yogurt Box\nGrains: WG Tortilla Chips\nVegetables: Ranch Style Pi
+ nto Beans\, Flame Roasted Corn & Jalapeno Blend\, Glazed Carrots\nFruits: 
+ 100% Fruit Blend Juice\, 100% Grape Juice
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
