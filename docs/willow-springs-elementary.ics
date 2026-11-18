@@ -8,17 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-10@willow-springs-lunch
-DTSTAMP:20261110T000000Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:WSES: Beef Nachos / Nacho Ch Sauce
-DESCRIPTION:Entrees: Beef Nachos\, Nacho Cheese Sauce\nGrab and go: Salsa &
-  String Cheese Box\nGrains: WG Tortilla Chips\nVegetables: Street Corn\, S
- alsa\nFresh Fruits: Fresh Sweet Apple Slices
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-12@willow-springs-lunch
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -72,11 +61,11 @@ UID:wses-2026-11-18@willow-springs-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch / Chdr Ch Chef Sld
+SUMMARY:WSES: Hmbrg/Chzbrg / Grld Ch
 DESCRIPTION:Entrees: Hamburger on Brioche Bun\, Cheeseburger on Brioche Bun
- \, Grilled Cheese Sandwich\, Cheddar Cheese Chef Salad\nGrab and go: Straw
- berry Yogurt Box\nVegetables: Baked Emoticon Potatoes\nFresh Fruits: Fresh
-  Oranges\nFresh Vegetables: Fresh Cucumber Sticks
+ \, Grilled Cheese Sandwich\nGrab and go: Strawberry Yogurt Box\nVegetables
+ : Baked Emoticon Potatoes\nFruits: Applesauce\nFresh Vegetables: Fresh Bab
+ y Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -280,6 +269,15 @@ SUMMARY:WSES: Bkd Mozz Ch Sticks / Rotini w/ Marin
 DESCRIPTION:Entrees: Baked Mozzarella Cheese Sticks\, Rotini with Marinara\
  nGrains: Garlic Butter Dinner Roll\nVegetables: Marinara\, Steamed Broccol
  i\nFresh Fruits: Fresh Cantaloupe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wses-2026-12-18@willow-springs-lunch
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:WSES: Ch/Pep Piz
+DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
