@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-13@willow-springs-lunch
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:WSES: Ch/Pep Piz
-DESCRIPTION:Entrees: Stuffed Crust Cheese Pizza\, Pepperoni Pizza\nGrab and
-  go: String Cheese & Crackers Box\nFruits: 100% Fruit Blend Juice\nFresh V
- egetables: Cheez-It Caesar Salad\, Fresh Baby Carrots\, Fresh Grape Tomato
- es
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-16@willow-springs-lunch
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
