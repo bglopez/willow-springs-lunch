@@ -71,10 +71,10 @@ UID:wses-2026-11-23@willow-springs-lunch
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:WSES: Hot Dog / Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Cheddar Cheese Chef Salad\
- nGrab and go: Salsa & String Cheese Box\nVegetables: Baked Crinkle Cut Fre
- nch Fries\, BBQ Pinto Beans\nFruits: Sliced Pears
+SUMMARY:WSES: Hot Dog / Seaside Fish Filet Sndwch
+DESCRIPTION:Entrees: Butterball Turkey Hot Dog\, Seaside Fish Filet Sandwic
+ h\nGrab and go: Strawberry Yogurt Box\nVegetables: Baked Crinkle Cut Frenc
+ h Fries\, BBQ Pinto Beans\, Seasoned Black Beans\nFruits: Sliced Pears
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
