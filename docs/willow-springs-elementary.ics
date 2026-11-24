@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-16@willow-springs-lunch
-DTSTAMP:20261116T000000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:WSES: BBQ Ckn Drumstick / Carnival Corn Dog
-DESCRIPTION:Entrees: BBQ Chicken Drumstick\, Carnival Corn Dog\nGrab and go
- : String Cheese & Crackers Box\, Strawberry Yogurt Box\nGrains: Fresh Bake
- d Dinner Roll\nVegetables: Glazed Carrots\, Steamed Buttered Broccoli\nFru
- its: 100% Juice Frozen Fruit Cup\, Fruit Punch
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-17@willow-springs-lunch
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -82,9 +70,10 @@ UID:wses-2026-11-24@willow-springs-lunch
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:WSES: Chdr Ch Chef Sld
-DESCRIPTION:Entrees: Cheddar Cheese Chef Salad\nGrab and go: String Cheese 
- & Crackers Box
+SUMMARY:WSES: Beef Nachos / Hatch Chili Queso
+DESCRIPTION:Entrees: Beef Nachos\, Hatch Chili Queso\nGrab and go: Peanut B
+ utter & Crackers Box\nGrains: WG Tortilla Chips\nVegetables: Salsa\nFresh 
+ Fruits: Fresh Apple Slices\nFresh Vegetables: Fresh Baby Carrots
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
