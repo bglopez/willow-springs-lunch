@@ -8,18 +8,6 @@ NAME:Willow Springs Elementary Lunch
 X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
-UID:wses-2026-11-17@willow-springs-lunch
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:WSES: Ch Quesa / Beef Nachos
-DESCRIPTION:Entrees: Mini Cheese Quesadillas\, Beef Nachos\nGrab and go: St
- rawberry Yogurt Box\nGrains: WG Tortilla Chips\nVegetables: Ranch Style Pi
- nto Beans\, Flame Roasted Corn & Jalapeno Blend\, Glazed Carrots\nFruits: 
- 100% Fruit Blend Juice\, 100% Grape Juice
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wses-2026-11-18@willow-springs-lunch
 DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
@@ -85,10 +73,7 @@ SUMMARY:WSES: Orange Popcrn Ckn & Bowl / Ckn Dmplngs
 DESCRIPTION:Entrees: Orange Popcorn Chicken & Rice Bowl\, Chicken & Vegetab
  le Dumplings\nGrains: Whole Grain Garlic Flatbread\nVegetables: Ginger Gla
  zed Carrots\, Steamed Buttered Broccoli\nFruits: 100% Juice Frozen Fruit C
- up\, Berry America\, 100% Juice Frozen Fruit Cup\, Black Cheery\, 100% Jui
- ce Frozen Fruit Cup\, Strawberry\, 100% Juice Frozen Fruit Cup\, Fruit Pun
- ch\, 100% Juice Frozen Fruit Cup\, Watermelon\, 100% Juice Frozen Fruit Cu
- p\, Green Apple\, 100% Juice Frozen Fruit Cup\, Strawberry Lemonade
+ up\, Fruit Punch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
